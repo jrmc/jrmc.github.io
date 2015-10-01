@@ -1,0 +1,12 @@
+# Site settings
+title: j. r. mc
+email: me@jrmc.me
+description: > # this means to ignore newlines until "baseurl:"
+    site description forthcoming.
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://jrmc.github.io" # the base hostname & protocol for your site
+twitter_username: impcore 
+github_username:  jrmc
+
+# Build settings
+markdown: kramdown
