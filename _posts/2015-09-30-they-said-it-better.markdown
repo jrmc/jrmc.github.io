@@ -28,7 +28,7 @@ This is my small-but-growing collection of links to pieces of writing that expla
 
 [Judith Butler addressing TERFs](http://theterfs.com/2014/05/01/judith-butler-addresses-terfs-and-the-work-of-sheila-jeffreys-and-janice-raymond/) The theorist who started the conversation on the social construction of gender explains how badly "gender critical" feminists have misinterpreted her work. 
 
-[Nerds and Male Privilege](http://www.doctornerdlove.com/2011/11/nerds-and-male-privilege/) Probably a little dated, but spot-on. 
+[Dear BB: Dudes in Rape Culture](http://gutsmagazine.ca/blog/dear-bb) How to be a cis dude who talks to other cis dudes about rape culture.
 
 ## All About Creepers!
 [The C Word](http://captainawkward.com/2012/08/11/the-c-word/) Wherein Captain Awkward fields [reader questions about creepy dudes](http://captainawkward.com/2012/08/07/322-323-my-friend-group-has-a-case-of-the-creepy-dude-how-do-we-clear-that-up/) and, after the comments section explodes, writes this follow-up post to address some of the most common responses. She also links to these other fine works, also directed at men concerned about being called creepers:
